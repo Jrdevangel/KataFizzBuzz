@@ -5,6 +5,11 @@ the getFizzBuzz(int num) method, which returns "FizzBuzz" if the number is divis
 "Buzz" if divisible by 5, or the number itself as a string if none of
 these conditions are met.
 
+# Functionalities
+
+For this exercise, I have used ad technologies the basic Java commands such as the conditional if.
+
+
 # Test
 
 This Java test class, KataFizzbuzzTest, uses JUnit to verify the KataFizzbuzz class. It contains four tests:
